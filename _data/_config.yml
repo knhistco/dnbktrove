@@ -1,0 +1,16 @@
+author: kayloulee1
+description: This exhibition was generated from a Trove List by the GLAM Workbench.
+exclude:
+- docs/
+- Rakefile
+- README.md
+- LICENSE
+- CITATION.cff
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+metadata: 180320-items
+sass:
+  style: compressed
+source-code: https://github.com/wragge/collectionbuilder-gh-trove
+tagline: a selection of items from Trove
+title: Danebank School for Girls Newspapers & Gazettes
